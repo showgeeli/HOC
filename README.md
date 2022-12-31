@@ -12,7 +12,9 @@ The whole workflow is displayed as following graph:
 
 
 It is noticed that correlation structures can be inferred from population activity in a very high accuracy and bin size of empirical sampling is critical to get an approximate estimation. Fitting amplitude characteristic functions can be slightly better than EDP by using Moore-Penrose inverse. Applying fitting with constraints elminates negative rates but not necessarily improves estimation accuracy compare with Moore-Penrose inverse.
-*References:*
+
+
+**References:**
 
 [1] A. Kuhn, A. Aertsen, and S. Rotter, “Higher-order statistics of input ensembles
 and the response of simple model neurons,” Neural Comput, vol. 15, pp. 67–101,
