@@ -24,23 +24,4 @@ pp.compound_plot(compounded_spike_trains)
 
 
 
-# import numpy as np
-# n = np.shape(spike_trains)[0]
-# for spike_train in spike_trains[:n-1] :  
-#     # print(spike_train)
-#     spike_train = np.concatenate((spike_train,spike_trains[n-1])) # merge common input into each spike train
-#     spike_train.sort()
-#     print(spike_train)
-#     spike_trains = spike_train
-# print(spike_trains)
 
-
-# 1. Look into data format of elephant: spike train, 
-# 2. Plot function f MIP, sub group identy.
-
-# Two arraies of same size ,
-# 	pointsoftime
-# 	color 
-
-# Three things on Monday:
-# implement the plot, change data format, Look into MIP process
